@@ -25,7 +25,7 @@
     git clone [https://github.com/YOUR_USERNAME/arabic-text-cleaner.git](https://github.com/YOUR_USERNAME/arabic-text-cleaner.git)
     cd arabic-text-cleaner
     ```
-    (تأكدي من استبدال `YOUR_USERNAME` باسم المستخدم الخاص بكِ على GitHub).
+    (تأكد من استبدال `YOUR_USERNAME` باسم المستخدم الخاص بكِ على GitHub).
 2.  **تشغيل الأداة:**
     ```bash
     python text_cleaner.py
